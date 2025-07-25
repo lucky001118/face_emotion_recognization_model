@@ -103,5 +103,4 @@ Deploy as a web or mobile application.
 Integrate with chatbots or virtual assistants.
 
 ## 🙌 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
