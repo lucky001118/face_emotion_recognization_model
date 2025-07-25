@@ -102,5 +102,3 @@ Deploy as a web or mobile application.
 
 Integrate with chatbots or virtual assistants.
 
-## 🙌 
-
